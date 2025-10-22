@@ -28,4 +28,4 @@ print("d:",d)
 <img width="491" height="447" alt="Screenshot 2025-10-22 151834" src="https://github.com/user-attachments/assets/00e04296-aea7-41d4-9add-85ad189756ec" />
 
 ## Result
-thus the program runs suceesfully
+Thus the program runs successfully
